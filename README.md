@@ -1,0 +1,5 @@
+# WIA1006 Machine Learning (University of Malaya)
+
+This repository contains materials related to the course **WIA1006 Machine Learning**, offered at the University of Malaya.
+
+This course will introduce the field of Machine Learning, focusing on the core concepts of supervised and unsupervised learning. In supervised learning, we will discuss algorithms that are trained on input data labelled with a desired output, for instance, an image of a face and the name of the person whose face it is, and learn a function mapping from the input to the output. Unsupervised learning aims to discover latent structure in an input signal where no output labels are available, an example of which is grouping webpages based on the topics they discuss. Students will learn the algorithms that underpin many popular Machine Learning techniques, as well as develop an understanding of the theoretical relationships between these algorithms. The practical will concern the application of machine learning to a range of real-world problems.
